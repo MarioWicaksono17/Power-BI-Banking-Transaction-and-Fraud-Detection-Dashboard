@@ -67,3 +67,25 @@ Developed several DAX measures to support analysis and visualization, including:
 ### 5. Visualization
 - Built interactive dashboards using Power BI visuals.
 - Designed pages for transaction overview, fraud detection, and detailed analysis.
+
+## Future Improvements
+
+Here are several ideas that can be implemented in the next development phase:
+
+- **Add a machine-learning fraud prediction model**
+- **Perform customer segmentation (RFM analysis)**
+- **Integrate real-time or streaming transaction data**
+- **Implement automated anomaly detection using statistical or ML techniques**
+
+---
+
+## 👤 Author
+
+**Mario Suryowisnu Wicaksono**  
+*Data Analyst | Tech Enthusiast*  
+
+**LinkedIn:** *www.linkedin.com/in/marioswicaksono*
+
+**CV:** *[marioswicaksono](https://www.canva.com/design/DAGlhKwckaQ/vjIw_6NJgrAEq4hVCdpEUw/view?utm_content=DAGlhKwckaQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9dd2c26e9d)*
+
+**Portfolio:** *[marioswicaksono](https://www.canva.com/design/DAG38LX1BGw/e-P9BGpUdkNq5SU0OLRN3Q/edit?utm_content=DAG38LX1BGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*
